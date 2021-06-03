@@ -1,16 +1,12 @@
-### Hi there 👋
+Yooo, Hi there 👋
+I am Arijit Ghosh😊😊😉
 
-<!--
-**coolrunni/coolrunni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to do do many
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying at SRM(Main Campus)
+- 🌱 I’m currently learning javascript
+- 👯 I’m looking to good teammates for competition
+- 💬 Ask me about- Computer Programs
+- 📫 How to reach me: ag6113@srmist.edu.in
+- 😄 Pronouns: I would Like to be fast as Flash
+- ⚡ Fun fact: 1st computer virus was created in 1893
