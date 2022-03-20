@@ -1,7 +1,7 @@
 Yooo, Hi there 👋
 I am Arijit Ghosh😊😊😉
 
-I like to do do many
+I like to do many
 
 - 🔭 I’m currently studying at SRM(Main Campus)
 - 🌱 I’m currently learning javascript
